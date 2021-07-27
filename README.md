@@ -3,10 +3,12 @@
 
 The next packages must be installed to make the subject work. - يجب تثبيت الحزم التالية لجعل الثيم يعمل
 
+```
 1- i3-gaps
 
 2- picom
 
+```
 
 # install - التثبيت
  After installing the necessary packages -
