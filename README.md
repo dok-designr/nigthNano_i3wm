@@ -6,6 +6,10 @@
 
 <img src="screenshot/Screenshot from 2021-07-23 15-13-52.png">
 
+<img src="screenshot/Screenshot from 2021-07-27 11-31-57.png">
+
+<img src="screenshot/Screenshot from 2021-07-23 15-15-42.png">
+
 
 # install - التثبيت
 
