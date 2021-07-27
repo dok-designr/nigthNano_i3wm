@@ -9,6 +9,8 @@ Copying the necessary files - جاري نسخ الملفات الضرورية"
 
 cp config_i3/*  $HOME/.config/i3
 
+cp picom/*  $HOME/.config/picom
+
 echo "
 
 
