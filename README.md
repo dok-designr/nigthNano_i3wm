@@ -4,7 +4,7 @@
 
 ![title](iconteme.svg)
 
-![title](screenshot/Screenshot from 2021-07-23 15-13-52.png)
+<img src="screenshot/Screenshot from 2021-07-23 15-13-52.png">
 
 The next packages must be installed to make the subject work. - يجب تثبيت الحزم التالية لجعل الثيم يعمل
 
