@@ -6,6 +6,11 @@
 
 <img src="screenshot/Screenshot from 2021-07-23 15-13-52.png">
 
+
+# install - التثبيت
+
+
+
 The next packages must be installed to make the subject work. - يجب تثبيت الحزم التالية لجعل الثيم يعمل
 
 ```
@@ -38,7 +43,7 @@ you must change the background path to work through the config file
 
 Open the file and search for feh, and change the path to your background path
 
-# install - التثبيت
+
  
 After installing the necessary packages - بعد تثبيت الحزم اللازمة
 
