@@ -1,6 +1,8 @@
 # hello - السلام عليكم
 
 
+<img src="iconteme.svg">
+
 The next packages must be installed to make the subject work. - يجب تثبيت الحزم التالية لجعل الثيم يعمل
 
 ```
@@ -22,7 +24,7 @@ The next packages must be installed to make the subject work. - يجب تثبي�
 After installing the necessary packages -
 بعد تثبيت الحزم اللازمة
 
-```
+```sh
 cd nigthNano_i3wm
 
 ./install.sh
