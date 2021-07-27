@@ -8,15 +8,22 @@ The next packages must be installed to make the subject work. - يجب تثبي�
 
 2- picom
 
+3- feh
+
+4-rofi
+
+#font awesome
 ```
 
+
+
 # install - التثبيت
- After installing the necessary packages -
+ 
+After installing the necessary packages -
 بعد تثبيت الحزم اللازمة
 
 ```
 cd nigthNano_i3wm
 
 ./install.sh
-
 ```
