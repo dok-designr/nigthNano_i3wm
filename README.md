@@ -19,23 +19,26 @@ The next packages must be installed to make the subject work. - يجب تثبي�
 ```
 
 
-قبل تثبيت الملف ، 
-Config يجب عليك تغيير مسار الخلفية لكي تعمل من خلال ملف 
+# قبل تثبيت الملف 
+  :يجب عليك تغيير مسار الخلفية لكي تعمل من خلال ملف ال
+config
 
-افتح الملف وابحث عن
+ :افتح الملف وابحث عن
 
- feh ،
+ feh 
+
  وقم بتغيير المسار إلى مسار الخلفيه الخاص بك
 
 
-Before installing the file, you must change the background path to work through the config file
+# Before installing the file
+
+you must change the background path to work through the config file
 
 Open the file and search for feh, and change the path to your background path
 
 # install - التثبيت
  
-After installing the necessary packages -
-بعد تثبيت الحزم اللازمة
+After installing the necessary packages - بعد تثبيت الحزم اللازمة
 
 ```sh
 cd nigthNano_i3wm
