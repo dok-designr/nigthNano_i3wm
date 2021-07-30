@@ -1,0 +1,16 @@
+mod + q = exit
+
+mod + x = i3lock
+
+mod+F1 = nemo (my file manger)
+
+mod+F2 = firefox
+
+mod+F3 = cinnamon-settings (my setting linux mint )
+
+mod+F9  = eidt gtk theme & icons
+
+mod+F12 = gnome-screenshot (screenshot)
+
+mod+F8 = mintinstall (stor mint "cinnamon" ) 
+ 
