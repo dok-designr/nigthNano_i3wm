@@ -245,14 +245,19 @@ bindsym $mod+F12 exec gnome-screenshot
 
 bindsym $mod+F8 exec mintinstall
 
+
+#size border window
 for_window [class="^.*"] border pixel 2
 
+#start picom
 exec_always picom
 
+#margin border
 gaps inner 8
 gaps outer 4
 
 
+#color window
 # class                 border  backgr. text    indicator child_border
 client.focused          #0056B3 #0056B3 #ffffff #2e9ef4   #000616
 client.focused_inactive #333333 #5f676a #ffffff #484e50   #0039CA
