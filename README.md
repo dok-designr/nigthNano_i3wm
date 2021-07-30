@@ -25,6 +25,8 @@ The next packages must be installed to make the subject work. - يجب تثبي�
  - feh
 
  - rofi
+ 
+ - lxappearance 
 
 #font awesome
 ```
